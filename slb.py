@@ -16,13 +16,13 @@ import json
 import os,sys
 
 
-TestLoadBalancerId="lb-2zexi1mi1kkit6b4dv4ig"
+TestLoadBalancerId="lb-2zexi1mi1kkit6b4****"
 
 
 # 创建 AcsClient 实例，线上阿里云key
 client = AcsClient(
-    "LTAIGYyHfuAWni1k",
-    "TQOQeqQPeNOENkmNWER8g6joXEWwiQ",
+    "********",
+    "************",
     "cn-beijing"
 )
 
